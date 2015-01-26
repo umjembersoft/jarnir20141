@@ -2,7 +2,7 @@
 Merupakan repository yang berisi proposal tugas akhir mahasiswa jurusan Teknik Informatika Universitas Muhammadiyah Jember
 
 # Deskripsi Singkat
-Jarnir (Jaringan Nirkabel dan Komputasi Bergerak) merupakan repository yang berisi sekumpulan dokumen proposal tugas akhir mata kuliah Jaringan Nirkabel dan Komputasi Bergerak pada Jurusan Teknik Informatika Universitas Muhammadiyah Jember. Semoga koleksi proposal ini dapat bermanfaat untuk kita semua. Repository ini akan selalu di-update setiap tahunnya sesuai dengan tahun ajaran yang berjalan.
+Jarnir (Jaringan Nirkabel dan Komputasi Bergerak) merupakan repository yang berisi sekumpulan dokumen proposal tugas akhir mata kuliah Jaringan Nirkabel dan Komputasi Bergerak pada Jurusan Teknik Informatika Universitas Muhammadiyah Jember Konsentrasi Jaringan Komputer. Semoga koleksi proposal ini dapat bermanfaat untuk kita semua. Repository ini akan selalu di-update setiap tahunnya sesuai dengan tahun ajaran yang berjalan.
 
 # List Proposal
 Berikut ini merupakan list nama mahasiswa yang sudah mengumpulkan proposal tugas akhir (softcopy dan hardcopy) :
